@@ -1,13 +1,12 @@
-﻿{
+{
   "version": 1,
-  "variables": [
-    {
-      "names": [
-        "content"
-      ],
-      "values": [
-        "timeStamp,sales,transactions"
-      ]
-    }
+  "variables": [{
+    "names": ["username", "password"],
+    "values": [
+      ["steve", "h4x0R"],
+      ["joe1", "silly"],
+      ["jack", "<3jill"],
+      ["jill", "<3jack"]
+    ]}
   ]
 }
