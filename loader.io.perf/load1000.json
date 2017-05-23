@@ -6,9 +6,7 @@
         "content"
       ],
       "values": [
-        "timeStamp,sales,transactions
-        2012-12-31 00:00:00,2922.13,459
-        2013-01-01 00:00:00,1500.56,195"
+        "timeStamp,sales,transactions\r\n2012-12-31 00:00:00,2922.13,459\r\n2013-01-01 00:00:00,1500.56,195"
       ]
     }
   ]
