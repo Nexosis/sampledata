@@ -3,7 +3,7 @@
   "variables": [{
     "names": ["username"],
     "values": [
-      "steve,jane"
+      "timeStamp,sales,transactions\n2012-12-31 00:00:00,2922.13,459"
     ]}
   ]
 }
