@@ -1,12 +1,9 @@
 {
   "version": 1,
   "variables": [{
-    "names": ["username", "password"],
+    "names": ["username"],
     "values": [
-      ["steve", "h4x0R"],
-      ["joe1", "silly"],
-      ["jack", "<3jill"],
-      ["jill", "<3jack"]
+      "steve"
     ]}
   ]
 }
