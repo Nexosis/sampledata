@@ -3,7 +3,7 @@
   "variables": [{
     "names": ["username"],
     "values": [
-      "steve"
+      "steve,jane"
     ]}
   ]
 }
