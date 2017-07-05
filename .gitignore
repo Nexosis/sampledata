@@ -195,6 +195,5 @@ UnitTestResults.txt
 /model
 /obs
 
-# Logs from running Axon.Console
-Logs/
-src/Axon.Web/Axon.Web/Scripts/lib/dateRange.js.map
+/loader.io.perf
+/Logs

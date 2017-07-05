@@ -1,9 +1,0 @@
-{
-  "version": 1,
-  "variables": [{
-    "names": ["username"],
-    "values": [
-      ["timeStamp,sales,transactions\n2012-12-31 00:00:00,2922.13,459"]
-    ]}
-  ]
-}
