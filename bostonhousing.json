@@ -37,8 +37,7 @@
         "IndexOfHighways": {
             "dataType": "string",
             "role": "feature",
-            "imputation": "mode",
-            "aggregation": "mean"
+            "imputation": "mode"
         },
         "TaxRatePer": {
             "dataType": "numericMeasure",
